@@ -1,9 +1,6 @@
-### Krypto Scrapper
+#Project Description: Real-Time Cryptocurrency Data Extraction using Rust
 
-1. Installed rust using the given reference link.
-2. Understood the working of rust to went through the example of a web scraping tool.
-3. Used the example as a reference to make my own tool and got the desired result.
-
-#### Problems faced
-Using the same meathod or using the `nth child` to retrive _24H Value_ and _Market cap_ was giving me the correct value for the 1st value of _Market cap_, so I had to run a for loop seperately with `next` and `nth child` functions for both of them to get all data accurately.
-
+1. Extracts real-time data from the crypto.com website for the top 50 cryptocurrencies.
+2. Utilizes Rust for efficient data processing and web scraping.
+3. Collects cryptocurrency names, prices, 24-hour changes, volumes, and market caps.
+4. Outputs data in CSV format for further analysis or integration.

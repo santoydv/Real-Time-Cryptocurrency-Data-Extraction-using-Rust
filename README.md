@@ -1,4 +1,4 @@
-#Project Description: Real-Time Cryptocurrency Data Extraction using Rust
+### Project Description: Real-Time Cryptocurrency Data Extraction using Rust
 
 1. Extracts real-time data from the crypto.com website for the top 50 cryptocurrencies.
 2. Utilizes Rust for efficient data processing and web scraping.
